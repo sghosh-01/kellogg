@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/kellogg/:/",
-    "/content/kellogg/configuration:/.helix/config.json"
+    "/content/kellogg/:/"
   ]
 }
